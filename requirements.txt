@@ -1,0 +1,8 @@
+pandas 
+numpy
+geopandas
+rasterio 
+sentinelsat
+sentinelhub
+osmx
+matplotlib
